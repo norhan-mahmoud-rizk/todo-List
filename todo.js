@@ -8,7 +8,7 @@ class taskManager {
     }
 
     loadTasks() {
-        
+        //the array
         const data = [
             {
                 id: 1,
